@@ -7,7 +7,7 @@
 ![N|Solid](https://cdn.iconscout.com/icon/free/png-256/cucumber-129-1175199.png)
 
 
-**This project is  Based on Capybara + RSpec + Cucumber, Keep calm and code Java**.😃
+**This project is  Based on Capybara + RSpec + Cucumber, Keep calm and code!**.😃
 
 ## Features✨
 
